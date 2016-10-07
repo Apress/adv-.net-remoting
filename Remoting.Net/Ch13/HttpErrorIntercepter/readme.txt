@@ -1,0 +1,1 @@
+Please create an IIS virtual directory called MyServer3 which is pointing to the current directory's "MyServer3"-subdirectory before running this sample.

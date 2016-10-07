@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyGenerator", "KeyGenerator.csproj", "{A69CDE99-6829-4C9E-B707-5334AE173F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A69CDE99-6829-4C9E-B707-5334AE173F75}.Debug.ActiveCfg = Debug|.NET
+		{A69CDE99-6829-4C9E-B707-5334AE173F75}.Debug.Build.0 = Debug|.NET
+		{A69CDE99-6829-4C9E-B707-5334AE173F75}.Release.ActiveCfg = Release|.NET
+		{A69CDE99-6829-4C9E-B707-5334AE173F75}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

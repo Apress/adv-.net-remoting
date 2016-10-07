@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{91AE28A4-E2E8-47BD-B37A-5110721534A8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{9F81FDA7-E873-47B3-9FBF-30937E598128}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "General", "General\General.csproj", "{5671919F-22F7-44FB-B613-60E15709F89C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyServer", "http://localhost/MyServer2/MyServer.csproj", "{9A325963-4CDA-48D5-875B-2208D08F59AE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remoting1_V_1_0", "http://rammersrv02/Remoting1_V_1_0/Remoting1_V_1_0.csproj", "{EF077C3A-DF84-4458-A8A8-EE3470E7EC82}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{91AE28A4-E2E8-47BD-B37A-5110721534A8}.Debug.ActiveCfg = Debug|.NET
+		{91AE28A4-E2E8-47BD-B37A-5110721534A8}.Debug.Build.0 = Debug|.NET
+		{91AE28A4-E2E8-47BD-B37A-5110721534A8}.Release.ActiveCfg = Release|.NET
+		{91AE28A4-E2E8-47BD-B37A-5110721534A8}.Release.Build.0 = Release|.NET
+		{9F81FDA7-E873-47B3-9FBF-30937E598128}.Debug.ActiveCfg = Debug|.NET
+		{9F81FDA7-E873-47B3-9FBF-30937E598128}.Debug.Build.0 = Debug|.NET
+		{9F81FDA7-E873-47B3-9FBF-30937E598128}.Release.ActiveCfg = Release|.NET
+		{9F81FDA7-E873-47B3-9FBF-30937E598128}.Release.Build.0 = Release|.NET
+		{5671919F-22F7-44FB-B613-60E15709F89C}.Debug.ActiveCfg = Debug|.NET
+		{5671919F-22F7-44FB-B613-60E15709F89C}.Debug.Build.0 = Debug|.NET
+		{5671919F-22F7-44FB-B613-60E15709F89C}.Release.ActiveCfg = Release|.NET
+		{5671919F-22F7-44FB-B613-60E15709F89C}.Release.Build.0 = Release|.NET
+		{9A325963-4CDA-48D5-875B-2208D08F59AE}.Debug.ActiveCfg = Debug|.NET
+		{9A325963-4CDA-48D5-875B-2208D08F59AE}.Debug.Build.0 = Debug|.NET
+		{9A325963-4CDA-48D5-875B-2208D08F59AE}.Release.ActiveCfg = Release|.NET
+		{9A325963-4CDA-48D5-875B-2208D08F59AE}.Release.Build.0 = Release|.NET
+		{EF077C3A-DF84-4458-A8A8-EE3470E7EC82}.Debug.ActiveCfg = Debug|.NET
+		{EF077C3A-DF84-4458-A8A8-EE3470E7EC82}.Debug.Build.0 = Debug|.NET
+		{EF077C3A-DF84-4458-A8A8-EE3470E7EC82}.Release.ActiveCfg = Release|.NET
+		{EF077C3A-DF84-4458-A8A8-EE3470E7EC82}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

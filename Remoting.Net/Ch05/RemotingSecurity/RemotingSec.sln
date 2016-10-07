@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "General", "General\General.csproj", "{BC38BC11-0070-47A0-834E-A74A91584034}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{BF6EB80C-CBC2-44F8-A4F7-AE52F0DC7861}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{884D034D-C9D6-4A91-92E1-83A223CBEB7E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BC38BC11-0070-47A0-834E-A74A91584034}.Debug.ActiveCfg = Debug|.NET
+		{BC38BC11-0070-47A0-834E-A74A91584034}.Debug.Build.0 = Debug|.NET
+		{BC38BC11-0070-47A0-834E-A74A91584034}.Release.ActiveCfg = Release|.NET
+		{BC38BC11-0070-47A0-834E-A74A91584034}.Release.Build.0 = Release|.NET
+		{BF6EB80C-CBC2-44F8-A4F7-AE52F0DC7861}.Debug.ActiveCfg = Debug|.NET
+		{BF6EB80C-CBC2-44F8-A4F7-AE52F0DC7861}.Debug.Build.0 = Debug|.NET
+		{BF6EB80C-CBC2-44F8-A4F7-AE52F0DC7861}.Release.ActiveCfg = Release|.NET
+		{BF6EB80C-CBC2-44F8-A4F7-AE52F0DC7861}.Release.Build.0 = Release|.NET
+		{884D034D-C9D6-4A91-92E1-83A223CBEB7E}.Debug.ActiveCfg = Debug|.NET
+		{884D034D-C9D6-4A91-92E1-83A223CBEB7E}.Debug.Build.0 = Debug|.NET
+		{884D034D-C9D6-4A91-92E1-83A223CBEB7E}.Release.ActiveCfg = Release|.NET
+		{884D034D-C9D6-4A91-92E1-83A223CBEB7E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

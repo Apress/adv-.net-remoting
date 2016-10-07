@@ -1,0 +1,82 @@
+
+Microsoft (R) .NET Global Assembly Cache Utility.  Version 1.0.2914.16
+Copyright (C) Microsoft Corp. 1998-2001. All rights reserved.
+
+The Global Assembly Cache contains the following assemblies:
+	Accessibility, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	cscompmgd, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	CustomMarshalers, Version=1.0.2914.16, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	EnvDTE, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	General, Version=1.0.0.0, Culture=neutral, PublicKeyToken=4861192ce45d12e9, Custom=null
+	IEExecRemote, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	IEHost, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	IIEHost, Version=1.0.2411.16, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	ISymWrapper, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	Microsoft.JScript, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	Microsoft.JScript.resources, Version=7.0.0.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	Microsoft.VisualBasic, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	Microsoft.VisualBasic.Compatibility, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	Microsoft.VisualBasic.Compatibility.Data, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	Microsoft.VisualBasic.Compatibility.resources, Version=7.0.0.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	Microsoft.VisualBasic.resources, Version=7.0.0.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	Microsoft.VisualBasic.Vsa, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	Microsoft.VisualC, Version=7.0.9254.59748, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	Microsoft.VisualStudio.VSHelp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	Microsoft.Vsa, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	Microsoft_VsaVb, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	mscorcfg, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	mscorlib, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Custom=null
+	mscorlib.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b77a5c561934e089, Custom=null
+	Office, Version=2.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	Regcode, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	SoapSuds.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	SoapSudsCode, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	SoapSudsCode.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Custom=null
+	System.Configuration.Install, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Configuration.Install.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Data, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Custom=null
+	System.Data.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b77a5c561934e089, Custom=null
+	System.Design, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Design.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.DirectoryServices, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.DirectoryServices.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Drawing, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Drawing.Design, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Drawing.Design.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Drawing.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.EnterpriseServices, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.EnterpriseServices.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Management, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Messaging, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Messaging.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b77a5c561934e089, Custom=null
+	System.Runtime.Remoting, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Custom=null
+	System.Runtime.Remoting.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b77a5c561934e089, Custom=null
+	System.Runtime.Serialization.Formatters.Soap, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Runtime.Serialization.Formatters.Soap.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Security, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Security.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.ServiceProcess, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.ServiceProcess.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Web, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Web.RegularExpressions, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Web.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Web.Services, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Web.Services.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	System.Windows.Forms, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Custom=null
+	SYSTEM.WINDOWS.FORMS.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b77a5c561934e089, Custom=null
+	System.Xml, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Custom=null
+	System.XML.resources, Version=1.0.2411.0, Culture=de, PublicKeyToken=b77a5c561934e089, Custom=null
+	TlbExpCode, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+	TlbImpCode, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null
+
+The cache of ngen files contains the following entries:
+	Microsoft.VisualStudio, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=5a00410050002d004e0035002e0030002d00380046002d00300030003400330042003100450042000000
+	mscorlib, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Custom=5a00410050002d004e0035002e0030002d003800460053002d00300030003000460038003600360033000000
+	System, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Custom=5a00410050002d004e0035002e0030002d00380046002d00300030003000460035004100420041000000
+	System.Design, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=5a00410050002d004e0035002e0030002d00380046002d00300030003000460031003700410034000000
+	System.Drawing, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=5a00410050002d004e0035002e0030002d00380046002d00300030003000460037003700350044000000
+	System.Windows.Forms, Version=1.0.2411.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Custom=5a00410050002d004e0035002e0030002d00380046002d00300030003000460042003200440044000000
+
+Number of items = 73

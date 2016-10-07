@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleComponent", "SimpleComponent\SimpleComponent.csproj", "{BDF4BEF6-F04C-48DD-A15A-46FA94A0611E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BDF4BEF6-F04C-48DD-A15A-46FA94A0611E}.Debug.ActiveCfg = Debug|.NET
+		{BDF4BEF6-F04C-48DD-A15A-46FA94A0611E}.Debug.Build.0 = Debug|.NET
+		{BDF4BEF6-F04C-48DD-A15A-46FA94A0611E}.Release.ActiveCfg = Release|.NET
+		{BDF4BEF6-F04C-48DD-A15A-46FA94A0611E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

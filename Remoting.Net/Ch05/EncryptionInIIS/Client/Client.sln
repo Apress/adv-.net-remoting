@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client.csproj", "{9F81FDA7-E873-47B3-9FBF-30937E598128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "General", "..\General\General.csproj", "{5671919F-22F7-44FB-B613-60E15709F89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9F81FDA7-E873-47B3-9FBF-30937E598128}.Debug.ActiveCfg = Debug|.NET
+		{9F81FDA7-E873-47B3-9FBF-30937E598128}.Debug.Build.0 = Debug|.NET
+		{9F81FDA7-E873-47B3-9FBF-30937E598128}.Release.ActiveCfg = Release|.NET
+		{9F81FDA7-E873-47B3-9FBF-30937E598128}.Release.Build.0 = Release|.NET
+		{5671919F-22F7-44FB-B613-60E15709F89C}.Debug.ActiveCfg = Debug|.NET
+		{5671919F-22F7-44FB-B613-60E15709F89C}.Debug.Build.0 = Debug|.NET
+		{5671919F-22F7-44FB-B613-60E15709F89C}.Release.ActiveCfg = Release|.NET
+		{5671919F-22F7-44FB-B613-60E15709F89C}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

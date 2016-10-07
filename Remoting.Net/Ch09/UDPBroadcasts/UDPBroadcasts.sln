@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver", "Receiver\Receiver.csproj", "{2CB97AA1-966B-48F8-A5F4-4D648313A81F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Sender\Sender.csproj", "{4272CB45-73B8-4579-9C1F-F96689859BD7}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2CB97AA1-966B-48F8-A5F4-4D648313A81F}.Debug.ActiveCfg = Debug|.NET
+		{2CB97AA1-966B-48F8-A5F4-4D648313A81F}.Debug.Build.0 = Debug|.NET
+		{2CB97AA1-966B-48F8-A5F4-4D648313A81F}.Release.ActiveCfg = Release|.NET
+		{2CB97AA1-966B-48F8-A5F4-4D648313A81F}.Release.Build.0 = Release|.NET
+		{4272CB45-73B8-4579-9C1F-F96689859BD7}.Debug.ActiveCfg = Debug|.NET
+		{4272CB45-73B8-4579-9C1F-F96689859BD7}.Debug.Build.0 = Debug|.NET
+		{4272CB45-73B8-4579-9C1F-F96689859BD7}.Release.ActiveCfg = Release|.NET
+		{4272CB45-73B8-4579-9C1F-F96689859BD7}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

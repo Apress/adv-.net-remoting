@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client.csproj", "{9F81FDA7-E873-47B3-9FBF-30937E598128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressionSink", "..\Sinks\CompressionSink.csproj", "{691E0ADC-2F75-4799-82CF-FB8DC800F722}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9F81FDA7-E873-47B3-9FBF-30937E598128}.Debug.ActiveCfg = Debug|.NET
+		{9F81FDA7-E873-47B3-9FBF-30937E598128}.Debug.Build.0 = Debug|.NET
+		{9F81FDA7-E873-47B3-9FBF-30937E598128}.Release.ActiveCfg = Release|.NET
+		{9F81FDA7-E873-47B3-9FBF-30937E598128}.Release.Build.0 = Release|.NET
+		{691E0ADC-2F75-4799-82CF-FB8DC800F722}.Debug.ActiveCfg = Debug|.NET
+		{691E0ADC-2F75-4799-82CF-FB8DC800F722}.Debug.Build.0 = Debug|.NET
+		{691E0ADC-2F75-4799-82CF-FB8DC800F722}.Release.ActiveCfg = Release|.NET
+		{691E0ADC-2F75-4799-82CF-FB8DC800F722}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

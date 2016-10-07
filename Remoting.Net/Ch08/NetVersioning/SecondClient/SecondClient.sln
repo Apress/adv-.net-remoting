@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondClientApp", "SecondClientApp\SecondClientApp.csproj", "{B6978394-04D8-423C-9427-C00F0BB94E43}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B6978394-04D8-423C-9427-C00F0BB94E43}.Debug.ActiveCfg = Debug|.NET
+		{B6978394-04D8-423C-9427-C00F0BB94E43}.Debug.Build.0 = Debug|.NET
+		{B6978394-04D8-423C-9427-C00F0BB94E43}.Release.ActiveCfg = Release|.NET
+		{B6978394-04D8-423C-9427-C00F0BB94E43}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

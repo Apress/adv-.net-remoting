@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemotingClient", "RemotingClient\RemotingClient.csproj", "{CF1C883F-6FBF-4E29-97E5-8193DF10182B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemotingServer", "RemotingServer\RemotingServer.csproj", "{2066857A-3631-44FC-A460-914AC57843C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemotedType", "RemotedType\RemotedType.csproj", "{CD2DCC6D-A5E8-41E6-921A-859D2D4EC6AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF1C883F-6FBF-4E29-97E5-8193DF10182B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1C883F-6FBF-4E29-97E5-8193DF10182B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1C883F-6FBF-4E29-97E5-8193DF10182B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1C883F-6FBF-4E29-97E5-8193DF10182B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2066857A-3631-44FC-A460-914AC57843C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2066857A-3631-44FC-A460-914AC57843C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2066857A-3631-44FC-A460-914AC57843C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2066857A-3631-44FC-A460-914AC57843C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2DCC6D-A5E8-41E6-921A-859D2D4EC6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2DCC6D-A5E8-41E6-921A-859D2D4EC6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2DCC6D-A5E8-41E6-921A-859D2D4EC6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2DCC6D-A5E8-41E6-921A-859D2D4EC6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

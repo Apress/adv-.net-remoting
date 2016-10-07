@@ -1,0 +1,48 @@
+<VisualStudioProject>
+    <CSHARP LastOpenVersion = "7.10.3077" >
+        <Build>
+            <Settings ReferencePath = "D:\Workshop\Remoting\SerializeVersioning\NaiveVersioningV2\ClientEnvironment\GeneralV2\;D:\Workshop\Remoting\SerializeVersioning\NaiveVersioning\ClientEnvironment\GeneralV1\;D:\Workshop\Remoting\SerializeVersioning\ClientEnvironment\GeneralV1\;D:\Workshop\Versioning\ClientEnvironment\GeneralV1\;D:\Workshop\Remoting\SAOVersioning\ClientEnvironment\GeneralV1\;C:\Remoting.Net\Ch08\SerializeVersioning\NaiveVersioningV2\ClientEnvironment\GeneralV2\;C:\Remoting.Net\Ch08\Serializable\SimpleVersioning2\ClientEnvironment\GeneralV2\" >
+                <Config
+                    Name = "Debug"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "false"
+                />
+                <Config
+                    Name = "Release"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "false"
+                />
+            </Settings>
+        </Build>
+        <OtherProjectSettings
+            CopyProjectDestinationFolder = ""
+            CopyProjectUncPath = ""
+            CopyProjectOption = "0"
+            ProjectView = "ProjectFiles"
+            ProjectTrust = "0"
+        />
+    </CSHARP>
+</VisualStudioProject>
+
